@@ -6,8 +6,3 @@ module.exports = {
   mongoURI : process.env.MONGO_URI,
   cookieKey : process.env.COOKIE_KEY
 };
-
-// prod google key
-
-// googleClientId : "373169321609-8e3tfso4jo6knff006ca3fr3cpmrctah.apps.googleusercontent.com"
-// googleClientSecret : "YsDJuhaabkBXM-cw9cIswMdL"
